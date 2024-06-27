@@ -1,0 +1,38 @@
+{
+  "personalDetails": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "1234567890",
+    "address": "123 Main St",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62701",
+    "country": "USA",
+    "dob": "1990-01-01"
+  },
+  "educationalDetails": {
+    "degree": "Bachelor of Science",
+    "university": "University of Springfield",
+    "college": "Springfield College of Science",
+    "fieldOfStudy": "Computer Science",
+    "graduationYear": "2012",
+    "gpa": "3.8",
+    "honors": "Summa Cum Laude",
+    "activities": "Coding Club",
+    "certifications": "Certified Java Developer",
+    "courses": "Advanced Algorithms"
+  },
+  "employmentDetails": {
+    "company": "Tech Solutions",
+    "position": "Software Engineer",
+    "startDate": "2013-06-01",
+    "endDate": "2018-09-30",
+    "responsibilities": "Developing software solutions",
+    "achievements": "Employee of the Year",
+    "supervisor": "Jane Smith",
+    "supervisorPhone": "9876543210",
+    "reasonForLeaving": "Career advancement",
+    "current": "false"
+  }
+}
